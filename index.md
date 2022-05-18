@@ -12,7 +12,7 @@ Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 - [Dirk Beyer](https://www.sosy-lab.org/people/beyer/): Software Verification
 
-- [Michael Fisher](https://www.research.manchester.ac.uk/portal/michael.fisher.html): Design and Verificatio of Reliable Autonomous Systems
+- [Michael Fisher](https://www.research.manchester.ac.uk/portal/michael.fisher.html): Design and Verification of Reliable Autonomous Systems
 
 - [Eduard Paul (tbc)](http://www.es.mdh.se/staff/349-Eduard_Paul_Enoiu): Security Testing
 
@@ -22,7 +22,7 @@ Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 ## Fees
 
-500 Euro (including lunches, refreshments, summer school dinner)
+500 Euro (including lunch and refreshments and a summer school dinner)
 
 ## Director and Contact
 
