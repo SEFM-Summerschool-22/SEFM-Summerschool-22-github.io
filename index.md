@@ -5,6 +5,7 @@ Affilitated with the SEFM'22
 ## Dates and Location
 
 21.9. - 24.9.2022
+
 Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 ## Courses
