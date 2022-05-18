@@ -22,7 +22,7 @@ Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 ## Fees
 
-500 Euro (including lunch, refreshments, summer school dinner)
+500 Euro (including lunches, refreshments, summer school dinner)
 
 ## Director and Contact
 
