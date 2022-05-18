@@ -14,7 +14,7 @@ Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 - [Michael Fisher](https://www.research.manchester.ac.uk/portal/michael.fisher.html): Design and Verificatio of Reliable Autonomous Systems
 
-- [Eduard Paul (invited)](http://www.es.mdh.se/staff/349-Eduard_Paul_Enoiu): Security Testing
+- [Eduard Paul (tbc)](http://www.es.mdh.se/staff/349-Eduard_Paul_Enoiu): Security Testing
 
 - [Luca Pulina](https://www.uniss.it/ugov/person/200): Verification of Neural Networks
 
