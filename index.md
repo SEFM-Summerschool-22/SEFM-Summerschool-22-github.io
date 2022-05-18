@@ -1,4 +1,4 @@
-# Welcome to the SEFM Summerschool 2022 Page
+# SEFM Summerschool 2022
 
 Affilitated with the SEFM'22
 
