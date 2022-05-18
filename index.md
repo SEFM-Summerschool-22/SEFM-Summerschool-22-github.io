@@ -9,8 +9,7 @@ Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 ## Courses
 
-**[Dirk Beyer](https://www.sosy-lab.org/people/beyer/)** 
-- Software Verification
+**[Dirk Beyer](https://www.sosy-lab.org/people/beyer/)**: Software Verification
 
 **Michael Fisher** - Design and Verificatio of Reliable Autonomous Systems
 https://www.research.manchester.ac.uk/portal/michael.fisher.html
