@@ -26,4 +26,4 @@ Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 ## Director and Contact
 
-Markus Roggenbach, M.Roggenbach@swansea.ac.uk
+[Markus Roggenbach](https://www.swansea.ac.uk/staff/m.roggenbach/) , email: M.Roggenbach@swansea.ac.uk
