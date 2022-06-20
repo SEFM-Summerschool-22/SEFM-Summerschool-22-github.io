@@ -74,7 +74,7 @@ the BSI committee on Sustainable Robotics.
 
 ## Registration
 
-Registration is via the [SEFM-Webpages] https://sefm-conference.github.io/2022/registration.html
+Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/registration.html)
 
 ## Director and Contact
 
