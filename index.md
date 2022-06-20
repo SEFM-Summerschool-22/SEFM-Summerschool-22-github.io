@@ -1,4 +1,4 @@
-# SEFM Summerschool 2022
+# SEFM Summer School 2022
 
 Affilitated with the [SEFM'22](https://sefm-conference.github.io/2022/)
 
