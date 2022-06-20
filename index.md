@@ -72,7 +72,7 @@ the BSI committee on Sustainable Robotics.
 
 500 Euro (including lunch and refreshments and a summer school dinner)
 
-## Fees
+## Registration
 
 Registration is via the [SEFM-Webpages] https://sefm-conference.github.io/2022/registration.html
 
