@@ -12,19 +12,20 @@ Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 - [Dirk Beyer](https://www.sosy-lab.org/people/beyer/) (Ludwig-Maximilians-Universität München, Germany): **Software Verification**
 
-- [Michael Fisher](https://www.research.manchester.ac.uk/portal/michael.fisher.html) (University of Manchester, UK): **Design and Verification of Reliable Autonomous Systems**
-
 - [Eduard Enoiu](http://www.es.mdh.se/staff/349-Eduard_Paul_Enoiu) (Mälardalen University, Sweden): **Security Testing**
+
+- [Michael Fisher](https://www.research.manchester.ac.uk/portal/michael.fisher.html) (University of Manchester, UK): **Design and Verification of Reliable Autonomous Systems**
 
 - [Danny Weyns](https://people.cs.kuleuven.be/~danny.weyns/) (Katholieke Universiteit Leuven, Belgium; and Linnaeus University
 Sweden): **Designing Self-adaptive Systems**
 
 ## Course Descriptions
 
-**Security Testing, Eduard Enoiu**
+**Security Testing** ([Eduard Enoiu](http://www.es.mdh.se/staff/349-Eduard_Paul_Enoiu))
+
 Industrial software is subject to numerous vulnerabilities. Nevertheless, several techniques exist to prevent and detect software flaws. This crash course introduces students to basic and advanced approaches to testing trustworthy industrial control systems by focusing on the interplay between security and safety. Various test techniques will be covered, along with fault detection aspects and the bindings on software security.
  
-**Design and Verification of Reliable Autonomous Systems, Michael Fisher** 
+**Design and Verification of Reliable Autonomous Systems** ([Michael Fisher](https://www.research.manchester.ac.uk/portal/michael.fisher.html))
 
 Aim is to cover the software engineering, and particularly verification
 techniques, that might be used in developing trustworthy autonomous
@@ -44,7 +45,7 @@ Much of the material is from a forthcoming book on “Verifiable
 Autonomous Systems” by Louise A. Dennis and Michael Fisher
 (due to be published by Cambridge University Press in 2022).
 
- **Designing Self-adaptive Systems, Danny Weyns**
+ **Designing Self-adaptive Systems** ([Danny Weyns](https://people.cs.kuleuven.be/~danny.weyns/))
  
 In this course, we will introduce the basis principles of self-adaptive systems. Next, we will outline key milestones of research in this area and highlight the relevance of self-adaptation in practice. Then, we elaborate on runtime techniques that enable self-adaptive systems to provide guarantees that the systems comply with their goals while dealing with uncertainties that are difficult to anticipate at development time. The course concludes with an outline of open challenges in this interesting field of research. 
 
