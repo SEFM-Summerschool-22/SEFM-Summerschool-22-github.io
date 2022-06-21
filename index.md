@@ -21,7 +21,7 @@ Sweden): **Designing Self-adaptive Systems**
 
 ## Course Descriptions
 
-**Software Verification** [Dirk Beyer](https://www.sosy-lab.org/people/beyer/)
+**Software Verification** ([Dirk Beyer](https://www.sosy-lab.org/people/beyer/))
 
 The goal of the lectures is to bridge the gap between verification research and software engineering. Consequently, the lecture starts with theory and concepts, continues with a unifying view on several different verification algorithms, and finally addresses some practical problems that occur in software verification. First, we give an introduction of the framework of configurable program analysis. Second, we consolidate knowledge and show how to express four different software-verification algorithms in one unifying framework: bounded model checking, k-induction, predicate abstraction, and lazy abstraction with interpolants. We also shed light on practical aspects of software model checking and explain verification witnesses, combination approaches, and cooperative verification.
 
