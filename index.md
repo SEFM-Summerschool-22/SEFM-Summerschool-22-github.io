@@ -21,6 +21,15 @@ Sweden): **Designing Self-adaptive Systems**
 
 ## Course Descriptions
 
+**Software Verification** [Dirk Beyer](https://www.sosy-lab.org/people/beyer/)
+
+The goal of the lectures is to bridge the gap between verification research and software engineering. Consequently, the lecture starts with theory and concepts, continues with a unifying view on several different verification algorithms, and finally addresses some practical problems that occur in software verification. First, we give an introduction of the framework of configurable program analysis. Second, we consolidate knowledge and show how to express four different software-verification algorithms in one unifying framework: bounded model checking, k-induction, predicate abstraction, and lazy abstraction with interpolants. We also shed light on practical aspects of software model checking and explain verification witnesses, combination approaches, and cooperative verification.
+
+Reading Material:
+- [Foundations (in Handbook of Model Checking)](https://doi.org/10.1007/978-3-319-10575-8_16)
+- [SMT-Based Algorithms (in JAR)](https://doi.org/10.1007/s10817-017-9432-6)
+- [Verification Witnesses (in TOSEM)](https://doi.org/10.1145/3477579)
+
 **Security Testing** ([Eduard Enoiu](http://www.es.mdh.se/staff/349-Eduard_Paul_Enoiu))
 
 Industrial software is subject to numerous vulnerabilities. Nevertheless, several techniques exist to prevent and detect software flaws. This crash course introduces students to basic and advanced approaches to testing trustworthy industrial control systems by focusing on the interplay between security and safety. Various test techniques will be covered, along with fault detection aspects and the bindings on software security.
@@ -50,6 +59,8 @@ Autonomous Systems” by Louise A. Dennis and Michael Fisher
 In this course, we will introduce the basis principles of self-adaptive systems. Next, we will outline key milestones of research in this area and highlight the relevance of self-adaptation in practice. Then, we elaborate on runtime techniques that enable self-adaptive systems to provide guarantees that the systems comply with their goals while dealing with uncertainties that are difficult to anticipate at development time. The course concludes with an outline of open challenges in this interesting field of research. 
 
 ## CVs of the Lecturers 
+
+[Dirk Beyer](https://www.sosy-lab.org/people/beyer/)is Full Professor of Computer Science and has a Research Chair for Software and Computational-Systems Engineering at LMU Munich, Germany (since 2016). Before, he was Full Professor of Computer Science at University of Passau, Germany (2009-2016). He was Assistant and Associate Professor at Simon Fraser University, B.C., Canada (2006-2009), and Postdoctoral Researcher at EPFL in Lausanne, Switzerland (2004-2006) and at the University of California, Berkeley, USA (2003-2004), in the group of Tom Henzinger. Dirk Beyer holds a Dipl.-Inf. degree (1998) and a Dr. rer. nat. degree (2002) in Computer Science from the Brandenburg University of Technology in Cottbus, Germany. In 1998 he was Software Engineer with Siemens AG, SBS Dept. Major Projects in Dresden, Germany. His research focuses on models, algorithms, and tools for the construction and analysis of reliable software systems. He is architect, designer, and implementor of several successful tools. For example, CrocoPat is the first efficient interpreter for relational programming, CCVisu is a successful tool for visual clustering, and CPAchecker and BLAST are two well-known and successful software model checkers.
 
 [Eduard Enoiu](http://www.es.mdh.se/staff/349-Eduard_Paul_Enoiu) is a Senior Lecturer at Mälardalen University in Sweden. Previously, he worked at Bombardier Transportation in Sweden as a testing tool engineer and industrial Ph.D. researcher. Eduard received his Ph.D. from Mälardalen University in automatic test generation and fault detection evaluation. His current research interest is the automatic discovery of flaws and vulnerabilities in industrial control software. In addition, his interests span software engineering and empirical research, especially testing, maintaining, evolving, and assuring industrial software. He has developed, helped in the development, or led the construction of several tools that have discovered bugs in industrial control systems.
 
