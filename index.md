@@ -6,6 +6,8 @@ Affilitated with the [SEFM'22](https://sefm-conference.github.io/2022/)
 
 21.9. - 24.9.2022
 
+The school will start on Wednesday, 21.9., at 9am; the school will close on Saturday, 24.9. at 5.30pm.
+
 Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 ## Courses
@@ -57,6 +59,9 @@ Autonomous Systems” by Louise A. Dennis and Michael Fisher
  **Designing Self-adaptive Systems** ([Danny Weyns](https://people.cs.kuleuven.be/~danny.weyns/))
  
 In this course, we will introduce the basis principles of self-adaptive systems. Next, we will outline key milestones of research in this area and highlight the relevance of self-adaptation in practice. Then, we elaborate on runtime techniques that enable self-adaptive systems to provide guarantees that the systems comply with their goals while dealing with uncertainties that are difficult to anticipate at development time. The course concludes with an outline of open challenges in this interesting field of research. 
+
+Reading material:
+- [Danny Weyns: Introduction to Self-Adaptive Systems, A Contemporary Software Engineering Perspective](https://www.wiley.com/en-us/An+Introduction+to+Self+adaptive+Systems%3A+A+Contemporary+Software+Engineering+Perspective-p-9781119574941)
 
 ## CVs of the Lecturers 
 
