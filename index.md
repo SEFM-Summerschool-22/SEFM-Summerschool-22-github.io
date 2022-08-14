@@ -94,7 +94,8 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 
 ## Timetable
 
-The timetable for each of the four days will be:
+A typical timetable will be as follows:
+
 - 9.00  am Lecture 1
 - 10.00 am Lecture 2
 - Coffee Break
