@@ -8,17 +8,6 @@ Affilitated with the [SEFM'22](https://sefm-conference.github.io/2022/)
 
 The school will start on Wednesday, 21.9., at 9am; the school will close on Saturday, 24.9. at 5.30pm. On Friday, 23.9., there will be a Summer School Dinner (included in the fees). Each course will have 6 lectures of 50mins duration.
 
-The timetable for each of the four days will be:
-- 9.00  am Lecture 1
-- 10.00 am Lecture 2
-- Coffee Break
-- 11.30 Lecture 3
-- Lunch Break
-- 14.00 Lecture 4
-- 15.00 Lecture 5
-- Coffee Break
-- 16.30 Lecture 6
-
 Johann von Neumann-Haus, Rudower Chaussee 25, Adlershof, Berlin, Germany
 
 ## Courses
@@ -102,6 +91,20 @@ the BSI committee on Sustainable Robotics.
 ## Registration
 
 Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/registration.html)
+
+## Timetable
+
+The timetable for each of the four days will be:
+- 9.00  am Lecture 1
+- 10.00 am Lecture 2
+- Coffee Break
+- 11.30 Lecture 3
+- Lunch Break
+- 14.00 Lecture 4
+- 15.00 Lecture 5
+- Coffee Break
+- 16.30 Lecture 6
+
 
 ## Director and Contact
 
