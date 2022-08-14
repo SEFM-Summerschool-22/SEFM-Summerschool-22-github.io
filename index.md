@@ -94,7 +94,7 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 
 ## Timetable
 
-A typical timetable will be as follows:
+A typical timetable of a Summer School day will be as follows:
 
 - 9.00  am Lecture 1
 - 10.00 am Lecture 2
