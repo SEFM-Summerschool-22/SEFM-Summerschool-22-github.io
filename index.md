@@ -102,7 +102,7 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 | 9.00          | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
 | 10.00         | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
 | 11.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
-| 11.30         | SW Verification | Q&A: Carrer Advice | SW Verification  | Sec Testing  |
+| 11.30         | SW Verification | Q&A: Career Advice | SW Verification  | Sec Testing  |
 | 12.30         | -- Lunch --     | -- Lunch --        | -- Lunch --      | -- Lunch --   |
 | 14.00         | Sec Testing     | Self Adaptive S    | SW Verification  | Sec Testing  |
 | 15.00         | Self Adaptive S | RA Systems         | Sec Testing      | SW Verification  |
