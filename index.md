@@ -109,18 +109,13 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 | 16.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
 | 16.30         | RA Systems      | Sec Testing        | Sec Testing      | SW Verification |
 
-A typical timetable of a Summer School day will be as follows:
+SW Verification - Software Verification 
 
-- 9.00  am Lecture 1
-- 10.00 am Lecture 2
-- Coffee Break
-- 11.30 Lecture 3
-- Lunch Break
-- 14.00 Lecture 4
-- 15.00 Lecture 5
-- Coffee Break
-- 16.30 Lecture 6
+Sec Testing - Security Testing
 
+RA Systems - Design and Verification of Reliable Autonomous Systems
+
+Self Adaptive S - Designing Self-adaptive Systems
 
 ## Director and Contact
 
