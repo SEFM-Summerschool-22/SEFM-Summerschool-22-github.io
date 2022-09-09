@@ -98,7 +98,7 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 
 
 | Time          | Wednesday       | Thursday           | Friday           | Saturday      |
-| ------------- | -------------   | -------------      | -------------    | ------------- |
+| :---          | :--             | :---               | :---             | :--- |
 | 9.00          | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
 | 10.00         | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
 | 11.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
