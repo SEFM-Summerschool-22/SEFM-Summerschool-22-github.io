@@ -109,13 +109,13 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 | 16.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
 | 16.30         | RA Systems      | Sec Testing        | Sec Testing      | SW Verification |
 
-SW Verification - Software Verification 
+SW Verification - Software Verification (Dirk Beyer)
 
-Sec Testing - Security Testing
+Sec Testing - Security Testing (Eduard Enoiu)
 
-RA Systems - Design and Verification of Reliable Autonomous Systems
+RA Systems - Design and Verification of Reliable Autonomous Systems (Michael Fisher)
 
-Self Adaptive S - Designing Self-adaptive Systems
+Self Adaptive S - Designing Self-adaptive Systems (Danny Weyns)
 
 ## Director and Contact
 
