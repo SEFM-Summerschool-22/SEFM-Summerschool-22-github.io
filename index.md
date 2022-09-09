@@ -96,6 +96,19 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 
 ## Timetable
 
+
+| Time          | Wednesday       | Thursday           | Friday           | Saturday      |
+| ------------- | -------------   | -------------      | -------------    | ------------- |
+| 9.00          | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
+| 10.00         | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
+| 11.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
+| 11.30         | SW Verification | Q&A: Carrer Advice | SW Verification  | Sec Testing  |
+| 12.30         | -- Lunch --     | -- Lunch --        | -- Lunch --      | -- Lunch --   |
+| 14.00         | Sec Testing     | Self Adaptive S    | SW Verification  | Sec Testing  |
+| 15.00         | Self Adaptive S | RA Systems         | Sec Testing      | SW Verification  |
+| 16.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
+| 16.30         | RA Systems      | Sec Testing        | Sec Testing      | SW Verification |
+
 A typical timetable of a Summer School day will be as follows:
 
 - 9.00  am Lecture 1
