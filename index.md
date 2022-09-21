@@ -111,8 +111,6 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 
 SW Verification - Software Verification (Dirk Beyer)
 
-Sec Testing - Security Testing (Eduard Enoiu)
-
 RA Systems - Design and Verification of Reliable Autonomous Systems (Michael Fisher)
 
 Self Adaptive S - Designing Self-adaptive Systems (Danny Weyns)
