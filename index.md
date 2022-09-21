@@ -94,7 +94,7 @@ the BSI committee on Sustainable Robotics.
 
 Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/registration.html)
 
-## Timetable
+## Adapted Timetable (as, unfortunately, Eduard Enoiu is unable to come to Berlin)
 
 
 | Time          | Wednesday, 21.9.| Thursday, 22.9.    | Friday, 23.9.    | Saturday, 24.9.|
@@ -102,12 +102,12 @@ Registration is via the [SEFM-Webpages](https://sefm-conference.github.io/2022/r
 | 9.00          | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
 | 10.00         | Self Adaptive S | Self Adaptive S    | RA Systems       | RA Systems  |
 | 11.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
-| 11.30         | SW Verification | Q&A: Career Advice | SW Verification  | Sec Testing  |
+| 11.30         | SW Verification | Q&A: Career Advice | SW Verification  | SP Analysis |
 | 12.30         | -- Lunch --     | -- Lunch --        | -- Lunch --      | -- Lunch --   |
-| 14.00         | Sec Testing     | Self Adaptive S    | SW Verification  | Sec Testing  |
-| 15.00         | Self Adaptive S | RA Systems         | Sec Testing      | SW Verification  |
+| 14.00         | Formal Methods  | Self Adaptive S    | SW Verification  | SP Analysis |
+| 15.00         | Self Adaptive S | RA Systems         | Student Presentations | SW Verification  |
 | 16.00         | -- Coffee --    | -- Coffee --       | -- Coffee --     | -- Coffee --  |
-| 16.30         | RA Systems      | Sec Testing        | Sec Testing      | SW Verification |
+| 16.30         | RA Systems      | SW Verification    | SP Analysis      | Discussion & Closing |
 
 SW Verification - Software Verification (Dirk Beyer)
 
@@ -116,6 +116,10 @@ Sec Testing - Security Testing (Eduard Enoiu)
 RA Systems - Design and Verification of Reliable Autonomous Systems (Michael Fisher)
 
 Self Adaptive S - Designing Self-adaptive Systems (Danny Weyns)
+
+Formal Methods (Markus Roggenbach)
+
+SP Analysis - Security Protocol Analysis (Markus Roggenbach)
 
 ## Director and Contact
 
